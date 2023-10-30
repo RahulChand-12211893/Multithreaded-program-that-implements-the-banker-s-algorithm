@@ -1,0 +1,29 @@
+Number of process you want to give: 4
+
+ Number of Resources you want to give: 3
+
+ Available resources (A B C ...) 2 1 1
+
+
+ Allocated Resources to the process 1 (A B C...) 1 0 1
+
+ Allocated Resources to the process 2 (A B C...) 2 1 2
+
+ Allocated Resources to the process 3 (A B C...) 3 0 0
+
+ Allocated Resources to the process 4 (A B C...) 1 0 1
+
+
+
+Maximum no. of resource required by process 1 (A B C...) 2 1 1
+
+Maximum no. of resource required by process 2 (A B C...) 5 4 4
+
+Maximum no. of resource required by process 3 (A B C...) 3 1 1
+
+Maximum no. of resource required by process 4 (A B C...) 1 1 1
+
+
+
+
+
